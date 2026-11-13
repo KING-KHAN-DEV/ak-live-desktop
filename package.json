@@ -1,0 +1,20 @@
+{
+  "name": "live-desktop",
+  "version": "0.1.0",
+  "description": "Interactive desktop wallpaper that reacts to your desktop icons",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.3.2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "wallpaper",
+    "electron",
+    "windows",
+    "procedural",
+    "canvas"
+  ]
+}
