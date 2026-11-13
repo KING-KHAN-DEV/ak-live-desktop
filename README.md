@@ -6,7 +6,7 @@ wallpaper for Windows that reacts to your **desktop icons** and your **cursor**.
 Drag an icon across the screen and the wallpaper reshapes itself around it: trees clear and regrow,
 clouds gather under icons, and the inked borders on the map redraw and link themselves.
 
-<!-- Add a demo GIF here (dragging an icon is the best shot):  ![demo](docs/demo.gif) -->
+![demo](docs/demo.gif)
 
 ## Themes
 
